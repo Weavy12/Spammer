@@ -3,11 +3,6 @@
 
 This is a spammer for annoying your friends.
 
-
-
-## Tutorial
-
-Watch this video on how to deploy it.
 ## Features
 
 Spam. That's it
