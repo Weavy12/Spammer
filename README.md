@@ -15,7 +15,7 @@ Spam. That's it
 
 #### Why isn't it working help!!!!
 
-Watch the fucking tutorial
+You're retarded then
 
 #### Will you make a better version out of this soon?
 
