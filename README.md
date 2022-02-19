@@ -8,9 +8,6 @@
 
 This is a spammer for annoying your friends.
 
-# Tutorial.
-Watch this. https://www.youtube.com/watch?v=jBxRGcDmfWA
-
 ## Features
 
 Spam. That's it
